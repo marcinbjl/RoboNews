@@ -6,3 +6,6 @@
 <br>
 
 ![](/screenshot.png?raw=true "Screenshot")
+
+
+<img src="/480x.gif?raw=true" height="640">
